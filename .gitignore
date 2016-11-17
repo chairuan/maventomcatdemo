@@ -1,0 +1,11 @@
+/target/
+/.settings/
+/.idea/
+/release-install/
+
+.idea
+.classpath
+.project
+*.jar
+*.war
+*.tar.gz
